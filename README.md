@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I create blog posts and open source packages mainly about data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. I would love to see you join.
 <!--
 **dvu4/dvu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I create blog posts and open source packages mainly about data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. I would love to see you join.
+
