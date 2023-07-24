@@ -4,12 +4,12 @@
 
 - Here is some of the stuff I enjoy doing:
 
-Time series analysis and forecasting
-Productionalize ML models
-Work with data and APIs
-Machine learning
-Data visualization
-Maps
+- Time series analysis and forecasting
+- Productionalize ML models
+- Work with data and APIs
+- Machine learning
+- Data visualization
+- Maps
 <!--
 **dvu4/dvu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
