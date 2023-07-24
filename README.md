@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I create blog posts and open source packages mainly about machine learning, data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. I would love to see you join.
+- 🔭 I'm a Machine Learning Engineer and create blog posts & open source packages mainly about machine learning, data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. I would love to see you join.
+
+- Here is some of the stuff I enjoy doing:
+
+Time series analysis and forecasting
+Productionalize ML models
+Work with data and APIs
+Machine learning
+Data visualization
+Maps
 <!--
 **dvu4/dvu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
