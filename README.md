@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a Machine Learning Engineer and create blog posts & open source packages mainly about machine learning, data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. I would love to see you join.
-
-- Here is some of the stuff I enjoy doing:
+- 🔭 I'm a Machine Learning Engineer and create blog posts & open source packages mainly about machine learning, data science and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. Here is some of the stuff I enjoy doing:
 
 - Time series analysis and forecasting
 - Productionalize ML models
